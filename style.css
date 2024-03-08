@@ -1,0 +1,50 @@
+body{
+    background:#f4d04e;
+    font-family: 'Figtree';
+}
+.main{
+    width: 385px;
+    height:525px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 9px 9px 1px 1px black;
+    padding: 1.1% 0 1% 0;
+}
+#article{
+    border-radius:15px;
+}
+.pad{
+    padding-left: 7%;
+    padding-right: 5%;
+}
+h1{
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+p{
+    font-size: 1.1rem;
+    color:rgba(0,0,0,0.7)
+}
+h3{
+    font-weight: 800;
+}
+.learn{
+    background:#F4D04E;
+    padding: 2% 3.5% 2% 3.5%;
+    border-radius: 5px;
+    width: 20%;
+    font-weight: bold;
+}
+.row{
+    display: flex;
+}
+.prof{
+    width:55px;
+    padding-left: 2%;
+    padding-top: 3%;
+}
